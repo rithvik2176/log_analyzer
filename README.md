@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 A Python tool that analyzes SSH auth logs to detect brute force attacks, 
 geolocate attackers, and use AI to identify coordinated attack patterns.
 Built as a cybersecurity learning project.
@@ -9,6 +10,7 @@ Built as a cybersecurity learning project.
 - python-dotenv
 
 ## Sample Output
+```
 ========================================
        SSH LOG ANALYSIS REPORT
 ========================================
@@ -24,6 +26,9 @@ Built as a cybersecurity learning project.
 🤖 AI Pattern Analysis:
 Two IPs from Germany attacked within 30 seconds suggesting 
 a coordinated automated attack...
+```
 
-
-
+=======
+# log_analyzer
+A simple python log analyzer for Linux.
+>>>>>>> acb0d8032da7908694bfe2deeaa5c9f2754045c9
