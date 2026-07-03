@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 A Python tool that analyzes SSH auth logs to detect brute force attacks, 
 geolocate attackers, and use AI to identify coordinated attack patterns.
 Built as a cybersecurity learning project.
